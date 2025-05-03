@@ -22,7 +22,11 @@ Reuniões, encontros de estudos e aulas pelo Microsoft Teams.
 A cada 15 dias. 
 
 ## Ideia de andamento do estudo conjunto
-Para cada tema as participantes vão estudar individualmente o conteúdo para então discutir no encontro. Em cada encontro deve ser feita uma ata com as discussões, registrando data e participantes.
+Fazer em conjunto curso gratuito de [ciência de dados](https://www.datascienceacademy.com.br/cursosgratuitos). Para cada curso as participantes vão estudar individualmente o conteúdo para então discutir no encontro. Em cada encontro deve ser feita uma ata com as discussões, registrando data e participantes.
+
+## Cursos para cada encontro 
+1. Fundamentos de linguagem python para análise de dados e data science (72h).
+2. Fundamentos de data science e inteligência artificial (24h).
 
 ## A fazer 
 - Criar código de conduta;
